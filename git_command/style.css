@@ -1,3 +1,6 @@
 ul{
     align-items: normal;
 }
+li{
+    align-items: flex-start;
+}
